@@ -1,1 +1,3 @@
-# vigilant-octo-winner
+# Diplom-scripts-Gertsev
+Тут просто собраны скрипты из моей дипломной работы.
+Герцев Кирилл ИТм-406.
